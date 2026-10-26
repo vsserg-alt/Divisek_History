@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Розділення.md",
+                "file": "Divisek/Вацлав Іванович Дівішек(Зіньків).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Розділення"
+              "title": "Вацлав Іванович Дівішек(Зіньків)"
             }
           },
           {
@@ -210,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"issue\"]",
+                "query": "Турбов",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3e9411ee397aceff",
@@ -254,12 +255,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Розділення.md",
+                "file": "Divisek/Вацлав Іванович Дівішек(Зіньків).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "divisek",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -273,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Розділення.md",
+                "file": "Places/Breweries/Турбово.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -316,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Розділення.md",
+                "file": "Places/Breweries/Турбово.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -344,35 +345,37 @@
   },
   "active": "7e823ac2a41d84a1",
   "lastOpenFiles": [
-    "Places/Breweries/Одеса.md",
-    "Places/Breweries/Березно.md",
-    "Без назви.md",
-    "Places/Breweries",
-    "2026-10-26.md",
-    "Sources/Obwieszczenia Publiczne. dodatek do Dziennika Urzędowego Ministerstwa Sprawiedliwości. R.7, № 15 (21 lutego 1923).md",
-    "Divisek/Ян Дівішек(Lubeň).md",
-    "Divisek/Станіслав Іванович Дівішек(Березно).md",
-    "Divisek/Станіслав Дівішек(Самбір).md",
-    "Divisek/Станіслав Дівішек(Зіньків).md",
-    "Divisek/Мирослав Іванович Дівішек(Березно).md",
-    "Divisek/Мар'ян Дивішек(Березно).md",
-    "Divisek/М. І. Дівішек(Зіньків).md",
-    "Divisek/М. Дівішек(Березно).md",
-    "Divisek/Ірена (Олена)-Мирославна Дівішек(Березно).md",
-    "Divisek/Дівішек(член спілки пивоварної промисловості в Королівстві Богемія).md",
-    "Divisek/Дівішек Іван(Березно).md",
-    "Divisek/Дівішек Вацлав Іванович(Проскуров).md",
-    "Divisek/Дивішек Вацлав Ян(Habřina).md",
+    "Sources/Газета. Ведомости Одесского Градоначальства. 1915 №141.md",
+    "Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXXII. — Prag, 1. Juli 1905. — Nr. 13..md",
+    "Divisek/В. Дивішек(Березно).md",
+    "Obsidian_Divisek/Divisek/В. Дивішек(Березно).md",
+    "Obsidian_Divisek/Divisek",
+    "Obsidian_Divisek",
+    "Sources/Книга. Весь Юго-Западный край. справочная и адресная книга по Киевской, Подольской и Волынской губерниях. (1913).md",
+    "Sources/Список фабрик и заводов Европейской России.  В. Киршбаума. (1903).md",
     "Divisek/Владислав Дівішко(Березно).md",
     "Divisek/Вацлав Іванович Дівішек(Зіньків).md",
-    "Divisek/В. Дивішек(Березно).md",
     "Divisek/Брати Дівішеки(Березно).md",
-    "Divisek/Рід Дівішеків.md",
+    "Places/Breweries/Турбово.md",
+    "Sources/Книга. Езиоранский Л.К. Фабрично-заводские предприятия Российской империи. (1909).md",
+    "Sources/Книга. Адрес-календарь Подольской губернии. (1909).md",
+    "Sources/Книга. Орлов П.А., Будагов С.Г. Указатель фабрик и заводов Европейской России. (1894).md",
+    "Sources/Кандуров Д.П. Фабрично-заводские предприятия Российской империи (исключая Финляндию). (1914 рік).md",
+    "Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXX. — Prag, 15. November 1903. — Nr. 22..md",
+    "Places/Самбор.md",
+    "Places/Проскурів.md",
+    "Places/Lubeň.md",
+    "Some nodes/Статья 1357¹ (Уложение о наказаниях уголовных и исправительных).md",
+    "Another sources/Russian Empire Certificates of Conviction (ведомость справокъ о судимости)  1906 Volume 5.md",
+    "Another sources/Сайт проєкту Volyňští Češi.md",
+    "Places/Вільшанка.md",
+    "Divisek/Дивішек Венцель(Волочиськ).md",
+    "Sources/Книга. Дворский Я.Ф.Нетч Ф.Г.Альманах русских пивоваров.том 1. 1894.md",
+    "Places/Breweries/Волочиськ.md",
+    "Sources/Книга. Дворский Я.Ф.Нетч Ф.Г.Альманах русских пивоваров.том 2. (1908).md",
+    "Places/Breweries",
     "Без назви 1.canvas",
     "Без назви.canvas",
-    "Another people/Емілія Технік(Березно).md",
-    "Another people/Францижка з Маркупових(Березне).md",
-    "Another people/Ольга Брикс(Березно).md",
     "БД.base",
     "Снимок экрана 2026-10-24 224933.png",
     "Some nodes",

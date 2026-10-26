@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "divis",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 0.867580193086266,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.704764870756774,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "centerStrength": 0.480535658673311,
+  "repelStrength": 13.4093129273852,
+  "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.6316046762907178,
+  "scale": 0.8854989543149915,
   "close": false
 }
