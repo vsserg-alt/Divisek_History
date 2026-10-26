@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Divisek  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Places/Breweries",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Another people\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16512019
+      }
+    },
+    {
+      "query": "path:Sources  ",
+      "color": {
+        "a": 1,
+        "rgb": 6055126
+      }
+    },
+    {
+      "query": " path:Places   ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 0.867580193086266,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.704764870756774,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.6316046762907178,
+  "close": false
+}
