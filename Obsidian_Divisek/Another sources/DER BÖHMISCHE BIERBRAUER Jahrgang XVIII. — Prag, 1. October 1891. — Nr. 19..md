@@ -4,6 +4,8 @@
 
 ### Сторінка 2
 
+![](<../Images/image069.png>)
+
 **Текст з фрагмента:**
 > Der Brauindustrieverein im Königreiche Böhmen.  
 > Die nationalökonomische Entwickelung der letzten fünf Decennien, namentlich aber die in den sechziger Jahren eingetretene gesellschaftliche Organisation blieben nicht ohne Einfluss auf Gewerbe und Handwerk, welche, aus dem veralteten Zunftleben sich loslösend, zu neuen Körperschaften sich gruppirten, den Anforderungen der Zeit, der Gesetze und den Wünschen der Mitglieder selbst besser entsprachen.  

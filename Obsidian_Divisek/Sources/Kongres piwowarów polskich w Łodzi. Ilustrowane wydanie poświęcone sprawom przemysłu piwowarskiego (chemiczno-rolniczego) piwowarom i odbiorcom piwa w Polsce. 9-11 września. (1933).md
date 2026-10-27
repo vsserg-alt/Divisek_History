@@ -4,6 +4,8 @@
 
 ### Сторінка 24
 
+![](<../Images/image076.png>)
+
 **Текст з фрагменту**
 > Izba Skarb. Wołyńska.  
 > Browar W. Diwiszka, dzierż. B. Wolf, Berezne, woj. Wołyńskie, pow. Kostopol.  

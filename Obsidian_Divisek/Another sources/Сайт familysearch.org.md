@@ -2,6 +2,9 @@
 [Посилання на запис](https://www.familysearch.org/ark:/61903/1:1:6PHH-27PZ?lang=uk)
 
 ### Václav Divíšek
+
+![](<../Images/image060.png>)
+
 П.І.Б:	[Václav Divíšek](<../Divisek/Дивішек Вацлав Ян(Habřina).md>)
 Вік:	26 years
 Рік народження (приблизний):	1843

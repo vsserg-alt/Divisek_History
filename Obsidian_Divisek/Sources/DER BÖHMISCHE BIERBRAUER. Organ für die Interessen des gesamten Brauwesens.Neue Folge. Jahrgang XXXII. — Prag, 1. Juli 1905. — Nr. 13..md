@@ -2,7 +2,8 @@
 [Посилання на журнал](https://anno.onb.ac.at/cgi-content/anno?aid=bbr&datum=19050701&seite=10&zoom=33&query=%22Divisek%22&ref=anno-search)  
 ### Сторінка 10
  
- 
+![](<../Images/image068.png>)
+
 **Текст з фрагмента:**
 Personalnachrichten.
 Herr Anton Spitznagl, Herrschafts- und Brauereidirektor des Fürsten Alfred Windisch-Grätz in Kladrau bei Mies, ist mit heutigem Tage in den Ruhestand getreten; zu seinem Nachfolger wurde Herr Dr. Wilhelm Mucha ernannt. — Herr Franz Pařízek wurde Braumeister in Nachičevan, Herr Josef Bouška ist Braumeister in Stanice Olginská und Herr Josef Vaněk Braumeister der Dampfbrauerei des Herrn Jirsa in Jekaterinodar, Russland, geworden. — Herr Anton Jira hat den Braumeisterposten in der Brauerei des Herrn Karger in Chmělník, und Herr St. Divíšek in der Brauerei des Herrn W. Divíšek in Zinkow, Russland, angetreten. — Herr Gabriel Janáček wurde zum Verwalter der Ersten landw. Malzfabrik in Prossnitz ernannt. — Herr Karl Milde, früher in der Strassmann’schen Brauerei in Mähr.-Ostrau, ist Brauführer der Société de la Brasserie Bulgare in Choumla, Bulgarien, geworden. — Herr Wilh. Kraus, früher in Kolleschowitz, hat den Brauführerposten in Liebenstein bei Eger angetreten. — Herr Franz Hauner, zuletzt Malzmeister der Götz’schen Brauerei in Okočim, wurde als Braumeister für die Brauerei A. Steiner & Comp. in Černowitz, Bukowina, engagiert. — Herr Hugo Lustig, Sohn des Herrn Ferd. Lustig in Saаз, erhielt die Vertretung des Bürgerlichen Brauhauses in Saaz für Süddeutschland mit dem Sitze in Frankfurt und übernimmt dieselbe mit 1. d. M.

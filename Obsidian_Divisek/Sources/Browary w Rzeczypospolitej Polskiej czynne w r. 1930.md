@@ -4,6 +4,7 @@
 
 ### Сторінка 8
 
+![](<../Images/image079.png>)
 
 **Текст з фрагменту:**
 > Izba Skarb. Wołyńska.   

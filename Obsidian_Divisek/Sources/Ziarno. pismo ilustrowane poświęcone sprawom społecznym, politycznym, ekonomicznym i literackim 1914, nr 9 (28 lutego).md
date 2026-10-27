@@ -2,6 +2,9 @@
 
 [Посилання на джерело](https://polona.pl/item-view/5c58df14-f2d0-4b4c-bb38-3527173e10e9?page=23&searchQuery=Diwiszek)
 ### Сторінка 16
+
+![](<../Images/image073.png>)
+
 **Текст з фрагменту**
 > Trafne rozwiązanie szarady z Nr. 7 „Ziarna”
 > G R A N A T Y

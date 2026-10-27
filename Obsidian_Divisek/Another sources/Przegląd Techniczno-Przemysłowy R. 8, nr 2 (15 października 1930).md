@@ -3,6 +3,8 @@
 
 ### Сторінка 6
 
+![](<../Images/image075.png>)
+
 **Текст з фрагмента:**
 > KUPIĘ NIEDUŻY RĘCZNY BROWAR  
 > moже być nieuruchomiony w powiatowem lub wojewódzkiem mieście, albo w okolicy. Ogród owocowy i warzywny oraz bliskość bliskość rzeki lub jeziora konieczne. Oferty ze szczegół. opisaniem posiadłości i ceną sprzedaży kier. pod adr. Olga Bryks poczta Berezne-browar pow. Kostopolski.   

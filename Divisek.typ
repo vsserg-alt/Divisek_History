@@ -94,6 +94,14 @@
     m => m.captures.at(0),
   )
 
+  // 4. Search for image links with relative paths pointing one directory up (<../...>)
+  // and rewrite them to be relative to the specified root Typst file (./Obsidian_Divisek/...)
+  markdown = markdown.replace(
+    regex("!\\[(.*?)\\]\\(<(\.\.\/)+([^\]]+)>\\)"),
+
+    m => "![" + m.captures.at(0) + "](<./Obsidian_Divisek/" + m.captures.at(2) + ">)",
+  )
+
   render_markdown(markdown)
 }
 

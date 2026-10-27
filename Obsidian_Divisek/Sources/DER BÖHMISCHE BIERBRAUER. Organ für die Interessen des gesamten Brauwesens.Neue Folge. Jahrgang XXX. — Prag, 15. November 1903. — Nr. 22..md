@@ -2,6 +2,8 @@
 [Посилання на журнал](https://anno.onb.ac.at/cgi-content/anno?aid=bbr&datum=19031115&seite=12&zoom=33&query=%22Divisek%22&ref=anno-search)  
 ### Сторінка 12
 
+![](<../Images/image065.png>)
+
 **Текст з фрагменту:**
 > Vermischte Nachrichten.  
 > Aus der I. öffentlichen Braufachschule in Prag. Am 1. November l. J. wurde das neue Schuljahr an dieser Anstalt eröffnet und laut Bericht des Directoriums besuchen die Vorträge folgende 65 Herren Hörer: Ambrož Fr. aus Neuhaus, Bukač Wenzel aus Plañan, Cisař Karl aus Jungbunzlau, Čejka Jos. aus Drahov, Danner Felix aus Nepomuk, Divíšek Stan. aus Sambor, Doležálek Joh. aus Chlumec a. Cidl., Doubek Jos. aus St. Katharina, Fehre Karl aus Prag, Feurich Wilh. aus Pilsen, Fiala Jaroslav aus Chrudim.

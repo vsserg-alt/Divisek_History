@@ -2,6 +2,7 @@
 
 [Посилання на джерело](https://polona.pl/item-view/5c58df14-f2d0-4b4c-bb38-3527173e10e9?page=23&searchQuery=Diwiszek)  
 
+![](<../Images/image072.png>)
 ### Сторінка 24
 **Текст з фрагмента:**
 > Do rejestru handlowego, Działu B/I, sądu okręgowego w Łucku w d. 20 grudnia 1922 r. wciągnięto następującą firmę pod Nr. 15:  
