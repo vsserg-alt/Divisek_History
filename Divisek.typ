@@ -136,14 +136,22 @@
   "Obsidian_Divisek/Sources/Список фабрик и заводов Европейской России.  В. Киршбаума. (1903).md",
 )
 
+
+
 #let kbd(it) = context {
   if target() == "html" {
     html.elem("kbd", it)
+
+    render_clean_markdown_from_file("Obsidian_Divisek/Another sources/Карта Березного та околиць (1915).md")
+
     for note in notes {
       render_markdown_from_file("Obsidian_Divisek/Розділення.md")
       render_clean_markdown_from_file(note)
     }
   } else {
+    render_clean_markdown_from_file("Obsidian_Divisek/Another sources/Карта Березного та околиць (1915).md")
+    pagebreak()
+
     for note in notes {
       render_clean_markdown_from_file(note)
       pagebreak()

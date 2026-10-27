@@ -8,4 +8,4 @@
 > Wold Bogumił, browar, Berezne.
 
 **Переклад:**
-> [Вольд Богуміл](<../Another people/Богуміл Вольф(Березно).md>), пивоварня, [Березне](<../Places/Breweries/Березно.md>).
+> [Вольд Богуміл](<../Another people/Богуміл Вольф(Березно).md>), пивоварня, [Березне](<../Places/Breweries/Березне.md>).
