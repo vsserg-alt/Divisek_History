@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXX. — Prag, 15. November 1903. — Nr. 22..md",
+                "file": "Sources/Книга. Адрес-календарь Подольской губернии. (1909).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXX. — Prag, 15. November 1903. — Nr. 22."
+              "title": "Книга. Адрес-календарь Подольской губернии. (1909)"
             }
           }
         ],
@@ -192,8 +192,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXX. — Prag, 15. November 1903. — Nr. 22..md",
+                "file": "Sources/Книга. Адрес-календарь Подольской губернии. (1909).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,6 +302,9 @@
   },
   "active": "f8516bb7523c5ed7",
   "lastOpenFiles": [
+    "Sources/Книга. Адрес-календарь Подольской губернии. (1904).md",
+    "Sources/Книга. Адрес-календарь Подольской губернии. (1909).md",
+    "Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXX. — Prag, 15. November 1903. — Nr. 22..md",
     "Another sources/Карта Березного та околиць (1915).md",
     "Places/Breweries/Березне.md",
     "Places/Breweries/Сельце(Березне).md",
@@ -318,7 +320,6 @@
     "Images/image082.png",
     "Images/image078.png",
     "Images/image074.png",
-    "Sources/Книга. Адрес-календарь Подольской губернии. (1904).md",
     "Sources/Варзар В.Е. Список фабрик и заводов Российской империи (1912).md",
     "Sources/Книга. Фабрики и заводы всей России. Сведения о 31 523 фабриках и заводах. (1913).md",
     "Sources/Книга. Весь Юго-Западный край. справочная и адресная книга по Киевской, Подольской и Волынской губерниях. (1913).md",
@@ -334,14 +335,12 @@
     "Sources/Книга. Вся Россия. Русская книга промышленности, торговли, сельского хозяйства и администрации. Торгово-промышленный адрес-календарь Российской империи. (1902).md",
     "Sources/Книга. Подольский Адрес-календарь. (1900).md",
     "Sources/Список фабрик и заводов Европейской России.  В. Киршбаума. (1903).md",
-    "Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXX. — Prag, 15. November 1903. — Nr. 22..md",
     "Sources/Kongres piwowarów polskich w Łodzi. Ilustrowane wydanie poświęcone sprawom przemysłu piwowarskiego (chemiczno-rolniczego) piwowarom i odbiorcom piwa w Polsce. 9-11 września. (1933).md",
     "Sources/Obwieszczenia Publiczne. dodatek do Dziennika Urzędowego Ministerstwa Sprawiedliwości. R.7, № 15 (21 lutego 1923).md",
     "Sources/Polski przemysł i handel. Rynek polski. Księga adresowa i informacyjna przedsiębiorstw przemysłowych, handlowych i finansowych w Rzeczypospolitej Polskiej. (1930).md",
     "Sources/Ziarno. pismo ilustrowane poświęcone sprawom społecznym, politycznym, ekonomicznym i literackim 1914, nr 9 (28 lutego).md",
     "Sources/Книга записів про народження, шлюб, смерть костелу м. Березно, 1912-1913рр..md",
     "Sources/Газета Чехослован 4.17 листопад. 1911.md",
-    "Sources/Книга. Фабрично-заводская промышленность России. Перечень фабрик и заводов. (1897).md",
     "Без назви.canvas",
     "Images",
     "Obsidian_Divisek/Divisek",
