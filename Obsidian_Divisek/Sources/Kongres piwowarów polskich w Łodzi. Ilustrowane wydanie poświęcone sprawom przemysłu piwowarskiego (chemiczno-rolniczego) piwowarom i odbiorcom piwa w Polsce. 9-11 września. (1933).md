@@ -1,12 +1,12 @@
-## Kongres piwowarów polskich w Łodzi : ilustrowane wydanie poświęcone sprawom przemysłu piwowarskiego (chemiczno-rolniczego) piwowarom i odbiorcom piwa w Polsce. 9-11 września. (1933)
+# Kongres piwowarów polskich w Łodzi : ilustrowane wydanie poświęcone sprawom przemysłu piwowarskiego (chemiczno-rolniczego) piwowarom i odbiorcom piwa w Polsce. 9-11 września. (1933)
 
 [Посилання на джерело](https://polona.pl/item-view/8f6ec004-45b4-448b-a4af-3e2690a8bdc0?page=21&searchQuery=berezne)   
 
-### Сторінка 24
+## Сторінка 24
 
 ![](<../Images/image076.png>)
 
-**Текст з фрагменту**
+### **Текст з фрагмента**
 > Izba Skarb. Wołyńska.  
 > Browar W. Diwiszka, dzierż. B. Wolf, Berezne, woj. Wołyńskie, pow. Kostopol.  
 > Browar „Zdrój“ w Kowlu, ul. Łucka 44.  
@@ -22,7 +22,7 @@
 > Browar „Siemiduby“, właśc. Sertecki, dzierż. Goldfarb i Chait, Siemiduby, poczta Równe.  
 > Browar P. Czastka i S-ka, Wołkowyje, p. Dubno.   
 
-**Переклад**
+### Переклад
 > Фінансова палата Волинська.  
 > Пивоварня [В. Дивішка](<../Divisek/В. Дивішек(Березно).md>), оренд. Б. Вольф, [Березне](<../Places/Breweries/Березне.md>), Волинське воєв., Костопільський пов.  
 > Пивоварня „Zdrój“ у Ковелі, вул. Луцька 44.  

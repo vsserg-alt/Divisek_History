@@ -1,7 +1,7 @@
 [Посилання](http://wolyn-metryki.pl/Wolyn/index.php?imie_szuk=&nazw_szuk=&miej_szuk=Berezne&para_szuk=&rok_start_szuk=&rok_koniec_szuk=)
-### Сайт проєкту wolyn-metryki.pl
+## Сайт проєкту wolyn-metryki.pl
 
-### Władysław Diwiszko
+## Władysław Diwiszko
 > Народження
 > День: 9  
 > Місяць: 10  

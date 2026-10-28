@@ -1,14 +1,14 @@
 #import "@preview/cmarker:0.1.10"
 
 
-// #set heading(numbering: "1.")
+// // #set heading(numbering: "1.")
 #set heading(numbering: (..nums) => {
   let list = nums.pos()
-  if list.len() == 1 {
+  if list.len() >= 3 {
     none // Пропускаємо рівень `=`
   } else {
-    let sub = list.slice(1).map(str).join(".")
-    if list.len() == 2 {
+    let sub = list.slice(0).map(str).join(".")
+    if list.len() == 1 {
       sub + "." // Для `==` додаємо крапку на кінці (наприклад, "1.")
     } else {
       sub // Для `===` та глибших виводимо без додаткової крапки (наприклад, "1.1")
@@ -16,9 +16,11 @@
   }
 })
 
+// #set heading(numbering: "1.")
+
+
 #show link: set text(fill: blue, weight: 700)
 #show link: underline
-
 
 #let centered(attrs, body) = html.elem(
   "center",
@@ -149,6 +151,89 @@
       render_clean_markdown_from_file(note)
     }
   } else {
+    show quote: it => it.body
+
+    // 1. Page Configuration (US Standard Book 6" x 9")
+    set page(
+      paper: "a4",
+      margin: (
+        top: 2.5cm,
+        bottom: 2.5cm,
+        inside: 1.5cm, // Більший відступ всередині для зшивання (gutter)
+        outside: 1.5cm, // Менший відступ ззовні
+      ),
+      binding: left,
+    )
+
+    // 2. Typography & Text Formatting
+    set text(
+      // font: "Linux Libertine", // Або інший якісний шрифт із засічками (Serif)
+      size: 11pt, // Стандартний кегль для А4
+      lang: "uk", // Мова документа (для правильних переносів)
+      tracking: 0pt,
+    )
+
+    // Paragraph formatting for a classic book look
+    set par(
+      justify: true, // Fully justified text
+      leading: 0.75em, // Line spacing
+      first-line-indent: 1.5em, // Indent the first line of paragraphs
+    )
+
+    // // 3. Headings Style
+    // // show heading: set text(font: "Linux Libertine", weight: "bold")
+    // show heading.where(level: 1): it => block(width: 100%, below: 2em)[
+    //   #set align(center)
+    //   #set text(size: 18pt)
+    //   #it.body
+    // ]
+    // show heading.where(level: 2): it => block(below: 1em)[
+    //   #set text(size: 14pt)
+    //   #it.body
+    // ]
+    show heading.where(level: 3): it => block(below: 1em, above: 2em)[
+      #set align(center)
+      // #set text(size: 18pt)
+      #it.body
+    ]
+
+    show heading.where(level: 1): it => {
+      pagebreak(weak: true) // Кожен великий розділ починається з нової сторінки
+      // v(2cm)
+      it
+      // v(1cm)
+    }
+
+    // show image: img => {
+    //   // Обмежуємо зображення по ширині (наприклад, максимум 100% від контейнера)
+    //   // та висоті (наприклад, не вище 300pt)
+    //   box(width: 100%, height: 70%, clip: false)[
+    //     #set image(width: auto, height: auto)
+    //     #img
+    //   ]
+    // }
+    //
+    //
+
+    show image: img => context {
+      // Вимірюємо природний розмір картинки
+      let size = measure(img)
+
+      // Тут можна задати максимальну ширину (наприклад, 100% або 400pt)
+      // let max-w = 100% * page.width
+      let max-h = 50% * page.height
+
+      // if size.width > max-w {
+      // image(img.source, width: max-w, height: size.height)
+      // }
+
+      if size.height > max-h {
+        image(img.source, height: max-h)
+      } else {
+        img
+      }
+    }
+
     render_clean_markdown_from_file("Obsidian_Divisek/Another sources/Карта Березного та околиць (1915).md")
     pagebreak()
 
@@ -156,6 +241,13 @@
       render_clean_markdown_from_file(note)
       pagebreak()
     }
+
+    // Виклик змісту
+    outline(
+      title: [Зміст],
+      indent: 1.5em,
+      depth: 2,
+    )
   }
 }
 
