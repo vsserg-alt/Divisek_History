@@ -71,8 +71,8 @@
    # macOS (Homebrew)
    brew install typst
 
-   # Cargo (Rust)
-   cargo install --locked typst-cli
+   # windows (WinGet)
+   winget install typst
    ```
 2. **Скомпілювати PDF-файл:**
    ```bash
