@@ -97,16 +97,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another sources/Russian Empire Certificates of Conviction (ведомость справокъ о судимости)  1906 Volume 5.md",
+                "file": "Нові метеріали/Дивна згадка Дивішеків ізСамбора.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Russian Empire Certificates of Conviction (ведомость справокъ о судимости)  1906 Volume 5"
+              "title": "Дивна згадка Дивішеків ізСамбора"
             }
           },
           {
-            "id": "7e823ac2a41d84a1",
+            "id": "0812595fa0ff3f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Нові метеріали/Будівницьво для пана Дівішека з Самбора.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Будівницьво для пана Дівішека з Самбора"
+            }
+          },
+          {
+            "id": "27cb6d3fe0965493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Нові метеріали/Метрична книга Зіньків.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Метрична книга Зіньків"
+            }
+          },
+          {
+            "id": "5f0dd46b385d8c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Another people/Варвара Кельнер(Зіньків).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Варвара Кельнер(Зіньків)"
+            }
+          },
+          {
+            "id": "09ca44abb530810b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Another sources/Сайт familysearch.org.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сайт familysearch.org"
+            }
+          },
+          {
+            "id": "f786f7de09e54969",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,21 +176,41 @@
             }
           },
           {
-            "id": "f8516bb7523c5ed7",
+            "id": "c19ee5d60a3caead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Breweries/Березне.md",
+                "file": "Divisek/Вацлав Дівішек син Вацлава із Зінькова.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Березне"
+              "title": "Вацлав Дівішек син Вацлава із Зінькова"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
+      },
+      {
+        "id": "cabb364baf0ffc8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f04fefad91bf4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Газета. Ведомости Одесского Градоначальства. 1915 №168.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Газета. Ведомости Одесского Градоначальства. 1915 №168"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.70001220703125
+    "width": 539.1000366210938,
+    "collapsed": true
   },
   "right": {
     "id": "3e9411ee397aceff",
@@ -212,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Breweries/Березне.md",
+                "file": "Divisek/Вацлав Іванович Дівішек(Зіньків).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +308,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/Книга. Адрес-календарь Подольской губернии. (1909).md",
-                "linksCollapsed": false,
+                "file": "Divisek/Вацлав Іванович Дівішек(Зіньків).md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
@@ -287,7 +364,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.89996337890625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,45 +378,45 @@
       "bases:Створити нову базу": false
     }
   },
-  "active": "f8516bb7523c5ed7",
+  "active": "f786f7de09e54969",
   "lastOpenFiles": [
-    "Places/Breweries/Кульчин.md",
-    "Places/Breweries/Турбово.md",
-    "Places/Breweries/Сельце(Березне).md",
-    "Places/Breweries/Одеса.md",
-    "Places/Breweries/Зіньків.md",
-    "Places/Breweries/Березне.md",
-    "Another sources/Карта Березного та околиць (1915).md",
-    "Another sources/Russian Empire Certificates of Conviction (ведомость справокъ о судимости)  1906 Volume 5.md",
-    "Another sources/Przegląd Techniczno-Przemysłowy R. 8, nr 2 (15 października 1930).md",
-    "Another sources/DER BÖHMISCHE BIERBRAUER Jahrgang XVIII. — Prag, 1. October 1891. — Nr. 19..md",
+    "Нові метеріали/Práce. Politický týdenník pro dělnictvo. Ročník V. 5. května  1895.md",
+    "Divisek/Вацлав Іванович Дівішек(Зіньків).md",
+    "Нові метеріали/Метрична книга Зіньків.md",
+    "Нові метеріали/Метрикі волинь згадка Яна та Сабіни дівішко.md",
+    "Another sources/Сайт familysearch.org.md",
+    "Pasted image 20261030214906.png",
+    "Pasted image 20261030214844.png",
     "Another sources/Сайт проєкту wolyn-metryki.pl.md",
+    "Another sources/Russian Empire Certificates of Conviction (ведомость справокъ о судимости)  1906 Volume 5.md",
+    "Без назви.md",
+    "Another people/Грохова Марія.md",
     "Another sources/Сайт проєкту Volyňští Češi.md",
-    "Another sources/Пивна пляшка Березне.md",
-    "Sources/Варзар В.Е. Список фабрик и заводов Российской империи (1912).md",
-    "Sources/Газета Чехослован 4.17 листопад. 1911.md",
-    "Sources/Газета. Ведомости Одесского Градоначальства. 1915 №141.md",
-    "Sources/Книга. Весь Юго-Западный край. справочная и адресная книга по Киевской, Подольской и Волынской губерниях. (1913).md",
-    "Sources/Книга. Вся Россия. Русская книга промышленности, торговли, сельского хозяйства и администрации. торгово-промышленный адрес-календарь Российской империи. Том 2. (1895).md",
-    "Sources/Книга. Езиоранский Л.К. Фабрично-заводские предприятия Российской империи. (1909).md",
-    "Sources/Книга. Список фабрик и заводов России. (1910).md",
-    "Sources/Browary w Rzeczypospolitej Polskiej czynne w r. 1930.md",
-    "Sources/Polski przemysł i handel. Rynek polski. Księga adresowa i informacyjna przedsiębiorstw przemysłowych, handlowych i finansowych w Rzeczypospolitej Polskiej. (1930).md",
+    "Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXX. — Prag, 15. November 1903. — Nr. 22..md",
     "Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXXII. — Prag, 1. Juli 1905. — Nr. 13..md",
-    "Sources/Список фабрик и заводов Европейской России.  В. Киршбаума. (1903).md",
-    "Sources/Книга. Фабрики и заводы всей России. Сведения о 31 523 фабриках и заводах. (1913).md",
-    "Sources/Книга. Адрес-календарь Подольской губернии. (1909).md",
-    "Без назви",
-    "Images/image077.png",
-    "Images/image075.png",
-    "Images/image076.png",
-    "Images/image079.png",
-    "Images/image081.png",
-    "Images/image083.png",
-    "Images/image080.png",
-    "Images/image082.png",
-    "Images/image078.png",
-    "Images/image074.png",
+    "Sources/Kongres piwowarów polskich w Łodzi. Ilustrowane wydanie poświęcone sprawom przemysłu piwowarskiego (chemiczno-rolniczego) piwowarom i odbiorcom piwa w Polsce. 9-11 września. (1933).md",
+    "Sources/Obwieszczenia Publiczne. dodatek do Dziennika Urzędowego Ministerstwa Sprawiedliwości. R.7, № 15 (21 lutego 1923).md",
+    "Sources/Polski przemysł i handel. Rynek polski. Księga adresowa i informacyjna przedsiębiorstw przemysłowych, handlowych i finansowych w Rzeczypospolitej Polskiej. (1930).md",
+    "Sources/Ziarno. pismo ilustrowane poświęcone sprawom społecznym, politycznym, ekonomicznym i literackim 1914, nr 9 (28 lutego).md",
+    "Sources/Газета. Ведомости Одесского Градоначальства. 1915 №168.md",
+    "Sources/Газета. Ведомости Одесского Градоначальства. 1915 №141.md",
+    "Sources/Варзар В.Е. Список фабрик и заводов Российской империи (1912).md",
+    "Divisek/Вацлав Дівішек син Вацлава із Зінькова.md",
+    "Нові метеріали/Dziennik Kijowski. Pismo polityczne, społeczne i literackie. 1909, nr 204.md",
+    "Нові метеріали/Обява як Вацлав шукав вчительку для дітей.md",
+    "Нові метеріали/Dziennik Kijowski. Pismo polityczne, społeczne i literackie. 1909, nr 206.md",
+    "Нові метеріали/Якась обява.md",
+    "Нові метеріали/Якась інформація про Вацлава.md",
+    "Нові метеріали/Цікава книза з  ілюстраціями.md",
+    "17-2-141_0496_cut.png",
+    "17-2-141_0495_cut.png",
+    "17-2-140_0449_cut.JPG.png",
+    "17-2-140_0448_cut.png",
+    "Pasted image 20261030170017.png",
+    "Pasted image 20261030161012.png",
+    "Pasted image 20261030155621.png",
+    "Pasted image 20261030155347.png",
+    "Нові метеріали",
     "Без назви.base",
     "Без назви 1.base",
     "Без назви.canvas",
