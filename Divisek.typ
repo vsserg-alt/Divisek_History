@@ -31,7 +31,7 @@
   markdown,
   scope: (
     image: (source, alt: none, ..args) => {
-      figure(image(source, alt: alt, ..args), caption: alt)
+      // figure(image(source, alt: alt, ..args), caption: alt)
     },
   ),
   smart-punctuation: true,

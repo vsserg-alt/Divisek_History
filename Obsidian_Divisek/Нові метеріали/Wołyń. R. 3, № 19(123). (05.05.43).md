@@ -1,0 +1,10 @@
+# Wołyń: tygodnik społeczny, polityczny i gospodarczy. R. 3, № 19(123). (05.05.43)
+
+[Посилання на джерело](https://crispa.uw.edu.pl/object/files/162660/display/PDF)
+## Сторінка 10
+![](<../Pasted image 20261030144618.png>)
+### Текст з фрагменту
+— **Komitet W.F. i P.W. na terenie miasta i gminy Berezne**. Dnia **16 bm**. zorganizowany został na terenie miasta i gminy **Berezne** wspólny podkomitet P. W. i W. F. W skład prezydjum komitetu weszli: Skulski Zdzisław, burmistrz, jako przewodniczący, Zborowski Franciszek, wójt gminy, jako zastępca, Zalewski Tergjusz, jako sekretarz, Lewoniewski Witold, jako intendent oraz członkowie kpt. Kuczek Jan i Skowroński Aleksander. Do podsekcji admin. gosp. weszli: jako przewodniczący dr. Budziński Jan i Bochiński Zugmunt. Do podsekcji wych. społeczn. **Diwiszek Marjan**, prof. Wechowski Bolesław i Pastuszewska Helena. Do podsekcji wych. fizyczn. Piotrowski Franciszek jako przewodniczący i członkowie: dr. Piwoński Jan i por. Babraj Eugeniusz **z 2 Baonu K. O. P.**
+
+### Переклад
+— **Комітет Фізичного Виховання і Підготовки Військової [В.Ф. і П.В.] на території міста та гміни Березне**. Дня **16 ц. м.** [цього місяця(травня)] організовано на території міста та гміни **Березне** спільний підкомітет П.В. і В.Ф. До складу президії комітету увійшли: Скульський Здзіслав, бурмістр, як голова; Зборовський Францишек, війт гміни, як заступник; Залевський Терґюш, як секретар; Левоневський Вітольд, як інтендант, а також члени: капітан Кучек Ян і Сковроньський Александер. До адміністративно-господарської підсекції увійшли: як голова — д-р Будзінський Ян та Бохінський Зіґмунт. До підсекції суспільного виховання: **[[Мар'ян Дивішек(Березно)|Дівішек Мар’ян]]**, проф. Веховський Болеслав і Пастушевська Гелена. До підсекції фізичного виховання: Піотровський Францишек як голова та члени: д-р Півоньський Ян і пор. [поручник] Бобрай Єугенюш із **2-го Батальйону Корпусу Охорони Кордону** [K.O.P.].
