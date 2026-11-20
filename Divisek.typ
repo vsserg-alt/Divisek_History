@@ -31,7 +31,7 @@
   markdown,
   scope: (
     image: (source, alt: none, ..args) => {
-      // figure(image(source, alt: alt, ..args), caption: alt)
+      figure(image(source, alt: alt, ..args), caption: alt)
     },
   ),
   smart-punctuation: true,
@@ -97,52 +97,49 @@
   )
 
   // 4. Search for image links with relative paths pointing one directory up (<../...>)
-  // and rewrite them to be relative to the specified root Typst file (./Obsidian_Divisek/...)
+  // and rewrite them to be relative to the specified root Typst file (./Obsidian/...)
   markdown = markdown.replace(
     regex("!\\[(.*?)\\]\\(<(\.\.\/)+([^\]]+)>\\)"),
 
-    m => "![" + m.captures.at(0) + "](<./Obsidian_Divisek/" + m.captures.at(2) + ">)",
+    m => "![" + m.captures.at(0) + "](<./Obsidian/" + m.captures.at(2) + ">)",
   )
 
   render_markdown(markdown)
 }
 
+
+
+
+
 #let notes = (
-  "Obsidian_Divisek/Sources/Книга. Весь Юго-Западный край. справочная и адресная книга по Киевской, Подольской и Волынской губерниях. (1913).md",
-  "Obsidian_Divisek/Sources/Книга. Фабрики и заводы всей России. Сведения о 31 523 фабриках и заводах. (1913).md",
-  "Obsidian_Divisek/Sources/Книга. Дворский Я.Ф.Нетч Ф.Г.Альманах русских пивоваров.том 2. (1908).md",
-
-  "Obsidian_Divisek/Sources/Книга. Орлов П.А., Будагов С.Г. Указатель фабрик и заводов Европейской России. (1894).md",
-  "Obsidian_Divisek/Sources/Газета Чехослован 4.17 листопад. 1911.md",
-  "Obsidian_Divisek/Sources/Ziarno. pismo ilustrowane poświęcone sprawom społecznym, politycznym, ekonomicznym i literackim 1914, nr 9 (28 lutego).md",
-
-  "Obsidian_Divisek/Sources/Browary w Rzeczypospolitej Polskiej czynne w r. 1930.md",
-  "Obsidian_Divisek/Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXX. — Prag, 15. November 1903. — Nr. 22..md",
-  "Obsidian_Divisek/Sources/DER BÖHMISCHE BIERBRAUER. Organ für die Interessen des gesamten Brauwesens.Neue Folge. Jahrgang XXXII. — Prag, 1. Juli 1905. — Nr. 13..md",
-  "Obsidian_Divisek/Sources/Kongres piwowarów polskich w Łodzi. Ilustrowane wydanie poświęcone sprawom przemysłu piwowarskiego (chemiczno-rolniczego) piwowarom i odbiorcom piwa w Polsce. 9-11 września. (1933).md",
-  "Obsidian_Divisek/Sources/Obwieszczenia Publiczne. dodatek do Dziennika Urzędowego Ministerstwa Sprawiedliwości. R.7, № 15 (21 lutego 1923).md",
-  "Obsidian_Divisek/Sources/Polski przemysł i handel. Rynek polski. Księga adresowa i informacyjna przedsiębiorstw przemysłowych, handlowych i finansowych w Rzeczypospolitej Polskiej. (1930).md",
-
-  "Obsidian_Divisek/Sources/Варзар В.Е. Список фабрик и заводов Российской империи (1912).md",
-  "Obsidian_Divisek/Sources/Газета. Ведомости Одесского Градоначальства. 1915 №141.md",
-  "Obsidian_Divisek/Sources/Газета. Ведомости Одесского Градоначальства. 1915 №168.md",
-  "Obsidian_Divisek/Sources/Кандуров Д.П. Фабрично-заводские предприятия Российской империи (исключая Финляндию). (1914 рік).md",
-  "Obsidian_Divisek/Sources/Книга записів про народження, шлюб, смерть костелу м. Березно, 1912-1913рр..md",
-  "Obsidian_Divisek/Sources/Книга. Адрес-календарь Подольской губернии. (1904).md",
-  "Obsidian_Divisek/Sources/Книга. Адрес-календарь Подольской губернии. (1909).md",
-
-  "Obsidian_Divisek/Sources/Книга. Вся Россия. Русская книга промышленности, торговли, сельского хозяйства и администрации. Торгово-промышленный адрес-календарь Российской империи. (1902).md",
-  "Obsidian_Divisek/Sources/Книга. Вся Россия. Русская книга промышленности, торговли, сельского хозяйства и администрации. торгово-промышленный адрес-календарь Российской империи. (1913).md",
-  "Obsidian_Divisek/Sources/Книга. Вся Россия. Русская книга промышленности, торговли, сельского хозяйства и администрации. торгово-промышленный адрес-календарь Российской империи. Том 2. (1895).md",
-  "Obsidian_Divisek/Sources/Книга. Дворский Я.Ф.Нетч Ф.Г.Альманах русских пивоваров.том 1. 1894.md",
-
-  "Obsidian_Divisek/Sources/Книга. Езиоранский Л.К. Фабрично-заводские предприятия Российской империи. (1909).md",
-
-  "Obsidian_Divisek/Sources/Книга. Подольский Адрес-календарь. (1900).md",
-  "Obsidian_Divisek/Sources/Книга. Список фабрик и заводов России. (1910).md",
-
-  "Obsidian_Divisek/Sources/Книга. Фабрично-заводская промышленность России. Перечень фабрик и заводов. (1897).md",
-  "Obsidian_Divisek/Sources/Список фабрик и заводов Европейской России.  В. Киршбаума. (1903).md",
+"Obsidian/Sources/Browary w Rzeczypospolitej Polskiej czynne w r. 1930.md",
+"Obsidian/Sources/DER BÖHMISCHE BIERBRAUER.  Jah. XXX. Nr. 22. (15.11.1903 ).md",
+"Obsidian/Sources/DER BÖHMISCHE BIERBRAUER. Jah. XXXII.  Nr. 13. (01.07.1905).md",
+"Obsidian/Sources/Kongres piwowarów polskich w Łodzi. (09.09.1933 -11.09.1933).md",
+"Obsidian/Sources/Obwieszczenia Publiczne. R.7, № 15 (21.02.1923).md",
+"Obsidian/Sources/Polski przemysł i handel. (1930).md",
+"Obsidian/Sources/Ziarno. Nr 9 (28.02.1914).md",
+"Obsidian/Sources/Альманах русских пивоваров.том 1. (1894).md",
+"Obsidian/Sources/Альманах русских пивоваров.том 2. (1908).md",
+"Obsidian/Sources/Ведомости Одесского Градоначальства. 1915 №141.md",
+"Obsidian/Sources/Ведомости Одесского Градоначальства. 1915 №168.md",
+"Obsidian/Sources/Весь Юго-Западный край. (1913).md",
+"Obsidian/Sources/Вся Россия. (1902).md",
+"Obsidian/Sources/Вся Россия. (1913).md",
+"Obsidian/Sources/Вся Россия. Том 2. (1895).md",
+"Obsidian/Sources/Книга. Адрес-календарь Подольской губернии. (1904).md",
+"Obsidian/Sources/Книга. Адрес-календарь Подольской губернии. (1909).md",
+"Obsidian/Sources/Метрична книга костелу м. Березно, 1912-1913рр..md",
+"Obsidian/Sources/Подольский Адрес-календарь. (1900).md",
+"Obsidian/Sources/Список фабрик и заводов Европейской России. (1903).md",
+"Obsidian/Sources/Список фабрик и заводов России. (1910).md",
+"Obsidian/Sources/Список фабрик и заводов Российской империи (1912).md",
+"Obsidian/Sources/Указатель фабрик и заводов Европейской России. (1894).md",
+"Obsidian/Sources/Фабрики и заводы всей России. (1913).md",
+"Obsidian/Sources/Фабрично-заводская промышленность России. (1897).md",
+"Obsidian/Sources/Фабрично-заводские предприятия Российской империи. (1909).md",
+"Obsidian/Sources/Фабрично-заводские предприятия Российской империи... (1914).md",
+"Obsidian/Sources/Чехослован 4.17 листопад. 1911.md",
 )
 
 
@@ -151,10 +148,10 @@
   if target() == "html" {
     html.elem("kbd", it)
 
-    render_clean_markdown_from_file("Obsidian_Divisek/Another sources/Карта Березного та околиць (1915).md")
+    render_clean_markdown_from_file("Obsidian/Another sources/Карта Березного та околиць (1915).md")
 
     for note in notes {
-      render_markdown_from_file("Obsidian_Divisek/Розділення.md")
+      render_markdown_from_file("Obsidian/Розділення.md")
       render_clean_markdown_from_file(note)
     }
   } else {
@@ -242,7 +239,7 @@
       }
     }
 
-    render_clean_markdown_from_file("Obsidian_Divisek/Another sources/Карта Березного та околиць (1915).md")
+    render_clean_markdown_from_file("Obsidian/Another sources/Карта Березного та околиць (1915).md")
     pagebreak()
 
     for note in notes {

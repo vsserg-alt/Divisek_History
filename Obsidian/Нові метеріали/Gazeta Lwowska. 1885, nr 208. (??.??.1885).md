@@ -1,0 +1,22 @@
+Gazeta Lwowska. 1885, nr 208
+https://jbc.bj.uj.edu.pl/dlibra/publication/53153/edition/47381?search=cmVzdWx0cz9hY3Rpb249QWR2YW5jZWRTZWFyY2hBY3Rpb24mdHlwZT0tMyZwPTEmcWYxPWF2YWlsYWJpbGl0eTpBdmFpbGFibGUmdmFsMT1BTkQ6cTooRGl3aXN6ZWsqK09SK0Rld2lzemVrKitPUitEaXdpc2VrKitPUitEZXdpc3prKitPUitEaXdpc3prKitPUitEaXdpc2NoZWsqK09SK0RpdiVDMyVBRCVDNSVBMWVrKitPUitEWklXSVNaRUsqKStBTkQrKChTaW5rb3YqK09SK1NpbmtvdyorT1IrWmlua292JTNGK09SK1ppbmtvdyopKytPUisoK0JlcmV6biorT1IrQmVyZXNuKitPUitTaWVsZWMqKStPUitTYW1ib3IqK09SK1AlQzUlODJvc2tpciVDMyVCM3cqK09SK0x3b3cqKSZpcHA9MjU
+![](<../Pasted image 20261118225701.png>)
+
+
+Текст з фото
+> L. 9730. (5981 1—3)
+>    Samborski c. k. sąd obwodowy ogłasza, że w dniach 8 października, 12 listopada i 17 grudnia 1885, każdym razem o godzinie 10 przed południem, odbędzie się w tymże sądzie na rzecz kasy oszczędności miasta Sambora, celem zaspokojenia raty amortyzacyjnej 150 złr. w. a. z pn., i resztującego kapitału 2474 zł. 97 ct. w. a. z pn., przymusowa publiczna sprzedaż realności, pod l. k. 21/20 w Samborze dziel. miej. położonej, wedle dom. V str. 301 poz 20/27 włas. Jana i Sabiny m[a]łż. Dewiszek własnej.
+>    Cenę wywołania stanowi wartość szacunkowa 10820 złr. w. a, zaś wadyum 10 prc. takowej.
+>    Realność ta zostanie na pierwszych dwóch terminach, tylko za lub wyżej ceny wywołania, na trzecim zaś także niżej tejże, lecz nie niżej sumy 7000 złr. w. a. sprzedaną.
+>    Resztę warunków licytacyjnych, wyciąg tabularny i akt oszacowania, można przejrzeć w tusądowej registraturze.
+>    Niewiadomych z miejsca pobytu właścicieli rzeczonej realności Jana i Sabinę małż Dewiszek, uwiadamia się przez ustanowionego dla nich ts. uchwałą z dnia 20 marca 1883 l. 2998, kuratora adwokata krajowego dr Jakóba Kohna w Samborze zamieszkałego, zaś niewiadomą z miejsca pobytu wierzycielkę Albinę z Terleckich Brenner i tych wierzycieli, którymby uchwała dozwalająca publiczną sprzedaż tej realności lub późniejsze w tej mierze zapaść mogące uchwały wcale nie lub nie należycie doręczone zostały i tych, którzyby po dniu wydania wyciągu tabularnego jakie prawa do rzeczonej realności nabyli i do tabuli weszli, zawiadamia się przez ustanowionego kuratora adwokata krajowego dr. Józefa Steuermanna, z substytucyą adwokata krajowego dr. Józefa Fiternika, obu w Samborze zamieszkałych i przez edykta.
+>    Sambor, 1 września 1885.
+
+Переклад
+> Л. 9730. (5981 1—3)
+> Самбірський цісарсько-королівський окружний суд оголошує, що в днях 8 жовтня, 12 листопада та 17 грудня 1885 року, кожного разу о 10-й годині перед полуднем, відбудеться в тому ж суді на користь ощадної каси міста Самбора, з метою задоволення амортизаційної рати 150 золотих ринських австрійської валюти з приналежностями та залишкового капіталу 2474 зл. 97 кр. австрійської валюти з приналежностями, примусовий публічний продаж нерухомості, під кік. 21/20 у Самборі міського поділу розташованої, згідно з дом[овим] виписом, том V стор. 301 поз. 20/27, власної (що є власністю) подружжя Яна та Сабіни Девішків.
+> Ціну виклику становить оціночна вартість 10 820 золотих ринських австрійської валюти, а завдаток — 10 відсотків від неї.
+> Ця нерухомість буде продана на перших двох термінах лише за ціну виклику або вище, а на третьому — також нижче неї, проте не нижче суми 7000 золотих ринських австрійської валюти.
+> Решту умов аукціону, витяг з реєстру та акт оцінки можна оглянути в канцелярії цього суду.
+> Невідомих за місцем перебування власників згаданої нерухомості Яна та Сабіну подружжя Девішків повідомляється через призначеного для них ухвалою цього суду від 20 березня 1883 року за л. 2998 курaтора — крайового адвоката д-ра Якова Кона, який проживає в Самборі, натомість невідому за місцем перебування кредиторку Альбіну з Терлецьких Бреннер і тих кредиторів, яким би ухвала, що дозволяє публічний продаж цієї нерухомості, або наступні ухвали, що можуть бути винесені у цій справі, взагалі не були вручені чи були вручені неналежним чином, а також тих, хто після дня видачі витягу з реєстру набув будь-які права на згадану нерухомість і увійшов до реєстру, повідомляється через призначеного курaтора — крайового адвоката д-ра Йозефа Стойрмана із заміщенням крайовим адвокатом д-ром Йозефом Фітерніком, обох, що проживають у Самборі, та через едиктом.
+> Самбір, 1 вересня 1885 року.
